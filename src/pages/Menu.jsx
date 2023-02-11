@@ -43,7 +43,7 @@ const [currentIndex, setCurrentIndex] = useState(0);
     setCurrentIndex(slideIndex);
   };
   return (
-    <div className='max-w-[650px] h-[780px] mt-[-20px] w-full m-auto py-8 px-4 relative group'>
+    <div className='max-w-[560px] h-[630px] mt-[-60px] w-full m-auto py-12 px-4 relative group'>
       <div
         style={{ backgroundImage: `url(${slides[currentIndex].url})` }}
         className='w-full h-full rounded-2xl bg-center bg-cover duration-500'
