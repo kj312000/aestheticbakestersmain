@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Aesthetic Bakester</h1>
+        <h1 className='w-full text-3xl font-bold text-[#d59bf6]'>Aesthetic Bakester</h1>
         <p className='py-4'>Welcome to Aesthetic Bakester, where we specialize in creating delicious and beautiful cakes and cupcakes that are perfect for any occasion.</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} />

@@ -20,7 +20,7 @@ const Analytics = () => {
             special dessert. Let us bring a touch of sweetness and beauty to
             your special occasion.</ol><br/>
           </p>
-          <Link to="./cupcakes" className="bg-black text-center text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+          <Link to="./cupcakes" className="bg-black text-center text-[#d59bf6] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
             Explore CupCakes
           </Link>
         </div>
